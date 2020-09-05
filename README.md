@@ -1,2 +1,2 @@
-# The-GCSO-game
-a small and short Organization game
+# p5.play-boilerplate
+Boiler plate for p5.play
